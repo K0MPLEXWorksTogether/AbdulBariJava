@@ -6,5 +6,6 @@ class GreetUser {
         System.out.printf("May I Know Your Name: ");
         String name = scan.nextLine();
         System.out.println("Hello, " + name + "!");
+        scan.close();
     }
 }
