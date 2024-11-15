@@ -6,3 +6,5 @@ A codedump for all the code I wrote while learning core java.
 - **DataTypes:** All the primitive datatypes, literals and how to create variables using these literals.
 
 - **FeaturesAndArchitecure:** How Java is platform independent, Architecture of JVM, and Java's features.
+
+- **Operators:** Understanding of type casting, type conversion, bitwise operators and arithmetic operators with precedence and associativity.
